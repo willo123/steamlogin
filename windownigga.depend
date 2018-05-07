@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1525642550 source:c:\users\wille\.thumbnails\hehe\windownigga\main.cpp
+	<tchar.h>
+	<windows.h>
+	<commctrl.h>
+	<Windowsx.h>
+	<iostream>
+	"setup.h"
+
+1525648477 source:c:\users\wille\.thumbnails\hehe\windownigga\setup.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+	<shellapi.h>
+	<Lmcons.h>
+	<cstring>
+	<tlhelp32.h>
+	<string.h>
+	<stdlib.h>
+	<thread>
+	"setup.h"
+
+1525642962 c:\users\wille\.thumbnails\hehe\windownigga\setup.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+	<shellapi.h>
+	<Lmcons.h>
+	<cstring>
+	<tlhelp32.h>
+	<string.h>
+	<stdlib.h>
+	<thread>
+
